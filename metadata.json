@@ -1,0 +1,6 @@
+{
+  "name": "Booking Hotel",
+  "description": "Aplikasi Booking Hotel modern dengan tampilan antarmuka yang sangat indah, interaktif, dan mudah digunakan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
